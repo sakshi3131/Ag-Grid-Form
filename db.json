@@ -27,5 +27,36 @@
     "name":"Sai",
     "marks":85,
     "email":"Sai@gmail.com"
-}
+},
+  {
+    "id":6,
+    "name":"Lary",
+    "marks":80,
+    "email":"Lary@gmail.com"
+},
+  {
+    "id":7,
+    "name":"Harry",
+    "marks":88,
+    "email":"Harry@gmail.com"
+},
+  {
+    "id":8,
+    "name":"Dolly",
+    "marks":65,
+    "email":"Dolly@gmail.com"
+},
+  {
+    "id":9,
+    "name":"Dora",
+    "marks":75,
+    "email":"Dora@gmail.com"
+},
+  {
+    "id":10,
+    "name":"sarala",
+    "marks":44,
+    "email":"sarala@gmail.com"
+},
+  
 ]
